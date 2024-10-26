@@ -1,0 +1,5 @@
+CREATE TABLE Cidades(
+id INT PRIMARY KEY,
+nome VARCHAR(60) NOT NULL,
+populacao INT
+);
